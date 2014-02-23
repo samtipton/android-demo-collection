@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo Collection</string>
+    <string name="action_settings">Settings</string>
+    <string name="Translate">Translate</string>
+    <string name="Scale">Scale</string>
+    <string name="Rotate">Rotate</string>
+    <string name="Alpha">Alpha</string>
+    <string name="welcome">Press a button to animate it</string>
+
+</resources>
