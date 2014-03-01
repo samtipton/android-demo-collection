@@ -12,7 +12,7 @@ public class main extends ListActivity {
 	String tests[] = {"LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
 			"KeyTest", "AccelerometerTest", "AssetsTest", "ExternalStoragetest",
 			"SoundPoolTest", "MediaPlayerTest", "FullScreenTest", "RenderViewTest",
-			"ShapeTest", "BitmapTest", "FontTest", "SurfaceViewTest", "ButtonAnimationTest" };
+			"ShapeTest", "BitmapTest", "FontTest", "SurfaceViewTest", "ButtonAnimationTest", "CircleListActivity" };
 	
 	ListView LV;
 	@Override

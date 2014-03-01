@@ -8,5 +8,6 @@
     <string name="Rotate">Rotate</string>
     <string name="Alpha">Alpha</string>
     <string name="welcome">Press a button to animate it</string>
+    <string name="title_circle_detail">circle detail</string>
 
 </resources>
